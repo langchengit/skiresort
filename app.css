@@ -1,8 +1,3 @@
-h1{
-  border: 2px solid olive;
-  font-size: 30px;
-
-  margin: 0 auto;
-  box-shadow: 2px 2px 2px red;
-
+ol > li{
+    border: 1px solid red;
 }
